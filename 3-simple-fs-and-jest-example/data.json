@@ -1,0 +1,16 @@
+[
+    {
+    "username": "Lily_2020",
+    "firstname":"Lily",
+    "lastname":"potter",
+    "email":"lily.james@pottermore.com",
+    "profileURL": "assets/gryffindor.jpeg"
+    },
+    {
+        "username":"Luna_2021",
+        "firstname": "Luna",
+        "lastname": "lovegood",
+        "email":"luna.lovegood@pottermore.com",
+        "profileURL": "assets/ravenclaw.jpeg"
+    }
+]
