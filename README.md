@@ -78,6 +78,7 @@ With `fetch()` since it returns a promise, you need to use `try()` and `catch()`
             });
 
         ```
+If you want to see the results of our hard work, you can run the cats.html file using the vscode extension `liveserver` - after installing, right click on the html file, and select 'open with liveserver'
 
 # Simple-FS-and-Jest-Example
 
@@ -98,17 +99,6 @@ To run Jest tests on simple asynchronous code, be sure to also include async/awa
 
         ```
 
-
-
-### If you wanted to play around...
-
-In the simple--fs-and-jest-example project, you will see three files of interest. 
-
-- index.js
-- data.json
-- index.html
-
-I've provided a couple of simple javascript statements that interact with the DOM.  Feel free to play around and experiment with DOM elements yourself, writing functions (maybe a .forEach(), to return the users within HTML cards...) adding more to the data.json file or if you're in design mood, play around with the html. 
 
 ### More Resources
 (Fetch API)[https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API]
